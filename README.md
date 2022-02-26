@@ -1,1 +1,1 @@
-# Data-science-School-Bootcamp-VBO-
+# Data-science-School(Veri Bilimi Okulu)
