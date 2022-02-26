@@ -1,1 +1,1 @@
-# Data-science-School(Veri Bilimi Okulu)
+# Data-Science-School(Veri Bilimi Okulu)
