@@ -6,7 +6,6 @@ The trainings on the Data Science Pats are as follows:
 
 AB Testing ✅ 
 İtem Based Recomandation ✅
-House Price Prediction 
 Hybrid Recomandation systems ✅
 Fraud Detection ✅
 ML Automation✅
