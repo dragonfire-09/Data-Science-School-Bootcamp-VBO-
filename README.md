@@ -2,7 +2,7 @@
 
 I created this repository to complete the data science path available on the Data Science Bootcamp and to share the requested assignments and notes.
 
-The trainings on the Data Science Pats are as follows:
+The trainings on the Data Science Paths are as follows:
 
 AB Testing ✅ 
 İtem Based Recomandation ✅
